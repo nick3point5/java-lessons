@@ -22,7 +22,7 @@
 8. In the browser, go to GitHub and login
 9. In the browser, Create a GitHub repo named homework
 10. Add the remote URL to the local git
-    * ```git remote set-url```
+    * ```git remote add```
 11. Push your local git into the GitHub repo
     * ```git push```
 12. Create a new local branch named "world"
