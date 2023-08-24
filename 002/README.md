@@ -9,7 +9,7 @@
    - `git clone`
 3. Create a new branch "MD"
 4. Checkout branch "MD"
-5. Create a file "Main.java"
+5. Inside directory 002 create a file "Main.java"
 6. Create a program that prints "Java is a programming language"
 7. Commit changes
 8. Push branch up to GitHub
