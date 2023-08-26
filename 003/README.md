@@ -18,5 +18,7 @@
 7. Print each variable out to the terminal in order
 8. Commit
 9. Replace the following "_____" with the what the variables spell out:
+    <br>
    answer: _____
+	<br>
 10. Commit, Push, and submit a pull request.
