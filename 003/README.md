@@ -5,7 +5,7 @@
 ---
 
 1. Pull the latest main branch from the GitHub repo
-2. In branch "md", create a Main.java file
+2. In branch "md"
 3. Inside 003, create a "hello world" program
 4. Git commit 
 5. Create a char variable for each of the following numbers in order:
