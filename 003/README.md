@@ -19,6 +19,6 @@
 8. Commit
 9. Replace the following "_____" with the what the variables spell out:
     <br>
-   answer: _____
+   answer: H E L L O
 	<br>
 10. Commit, Push, and submit a pull request.
